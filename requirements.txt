@@ -1,2 +1,4 @@
 numpy==1.19.2
 pyahp==0.1.2
+streamlit==1.15.1
+streamlit_tags==1.2.8
