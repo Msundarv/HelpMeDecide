@@ -1,0 +1,29 @@
+{
+    "name": "Sample Model",
+    "method": "approximate",
+    "criteria": ["critA", "critB", "critC"],
+    "subCriteria": {},
+    "alternatives": ["altA", "altB", "altC"],
+    "preferenceMatrices": {
+      "criteria": [
+        [1, 0.3333, 0.5],
+        [3, 1, 1],
+        [2, 1, 1]
+      ],
+      "alternatives:critA": [
+        [1, 1, 1],
+        [1, 1, 1],
+        [1, 1, 1]
+      ],
+      "alternatives:critB": [
+        [1, 1, 1],
+        [1, 1, 1],
+        [1, 1, 1]
+      ],
+      "alternatives:critC": [
+        [1, 1, 1],
+        [1, 1, 1],
+        [1, 1, 1]
+      ]
+    }
+  }
