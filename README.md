@@ -8,6 +8,7 @@ Command to run the app locally:
 ```
 streamlit run helpmedecide.py 
 ```
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/PTUfzrB8YzU/0.jpg)](http://www.youtube.com/watch?v=PTUfzrB8YzU "HelpMeDecide Demo")
 
 ## Prerequisites
 
